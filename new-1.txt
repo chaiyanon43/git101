@@ -1,1 +1,3 @@
-new-1.txt
+create file new-1.txt by user2
+แทรข้อความที่แตกต่างจากตัวฉันอีกคน
+and save
